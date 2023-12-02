@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655959418173",
+    "project_id": "pushnotif-dbe61",
+    "storage_bucket": "pushnotif-dbe61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655959418173:android:ee14a0930ed28cfbc2d154",
+        "android_client_info": {
+          "package_name": "android.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTA3jJD7r5LoM2Pw9dMRWbmsSpdjNyYm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
